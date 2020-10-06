@@ -12,10 +12,10 @@ To get started, open `js/app.js` and start building out the app's functionality
 
 For specific, detailed instructions, look at the project instructions in the Udacity Classroom.
 
-Stuffs that i've worked on in this project:
+# Stuffs that i've worked on in this project:
 ---------------------------------------------
-# section menu created dynamically by javascript DOM according to section in HTML
-# active class is added whenever the menu item is clicked
-# jump to section when menu item is clicked by adding a powerful css property to whole html page (scroll-behavior: smooth;) to make scrolling effect smoother
-# back to top button when scrolling down the button appears
-# Mobile Navigation Menu sidebar 
+1. section menu created dynamically by javascript DOM according to section in HTML
+2. active class is added whenever the menu item is clicked
+3. jump to section when menu item is clicked by adding a powerful css property to whole html page (scroll-behavior: smooth;) to make scrolling effect smoother
+ back to top button when scrolling down the button appears
+4. Mobile Navigation Menu sidebar 
