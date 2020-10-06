@@ -12,7 +12,7 @@ To get started, open `js/app.js` and start building out the app's functionality
 
 For specific, detailed instructions, look at the project instructions in the Udacity Classroom.
 
-# Stuffs that i've worked on in this project:
+# This Landing page involves:
 ---------------------------------------------
 1. section menu created dynamically by javascript DOM according to section in HTML
 2. active class is added whenever the menu item is clicked
